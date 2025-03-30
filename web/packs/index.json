@@ -1,6 +1,11 @@
 {
   "packs": [
-    "Pusheen.json"
+    "pusheenvol2.json",
+    "Gudetamasvik.json",
+    "ChickenEggYolk.json",
+    "lalalalalalala.json",
+    "LovelyEngineer.json",
+    "gloomycat.json"
   ],
   "homeserver_url": "https://stoat.social"
 }
